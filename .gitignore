@@ -1,0 +1,8 @@
+# Dataset audio dan metadata lokal
+/clips/
+/Dataeksternal/
+/validated.tsv
+
+# Environment Python lokal
+/.venv/
+/.venv-1/
